@@ -1,0 +1,1 @@
+remove wput and lftp dependinces from script, and make all, based on standart linux commnadline ftp-client
